@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:regirock","required":false},
+    {"id": "#cobblemonraiddens:regice","required":false},
+    {"id": "#cobblemonraiddens:registeel","required":false},
+    {"id": "#cobblemonraiddens:latias","required":false},
+    {"id": "#cobblemonraiddens:latios","required":false},
+    {"id": "#cobblemonraiddens:kyogre","required":false},
+    {"id": "#cobblemonraiddens:groudon","required":false},
+    {"id": "#cobblemonraiddens:rayquaza","required":false},
+    {"id": "#cobblemonraiddens:jirachi","required":false},
+    {"id": "#cobblemonraiddens:deoxys","required":false}
+  ]
+}

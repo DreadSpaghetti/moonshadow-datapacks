@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:xerneas","required": false},
+    {"id": "#cobblemonraiddens:yveltal","required": false},
+    {"id": "#cobblemonraiddens:zygarde","required": false},
+    {"id": "#cobblemonraiddens:diancie","required": false},
+    {"id": "#cobblemonraiddens:hoopa","required": false},
+    {"id": "#cobblemonraiddens:volcanion","required": false}
+  ]
+}

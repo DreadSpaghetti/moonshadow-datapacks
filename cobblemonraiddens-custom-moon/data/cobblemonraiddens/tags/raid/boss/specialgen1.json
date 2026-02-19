@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:articuno","required":false},
+    {"id": "#cobblemonraiddens:articuno_galarian","required":false},
+    {"id": "#cobblemonraiddens:zapdos","required":false},
+    {"id": "#cobblemonraiddens:zapdos_galarian","required":false},
+    {"id": "#cobblemonraiddens:moltres","required":false},
+    {"id": "#cobblemonraiddens:moltres_galarian","required":false},
+    {"id": "#cobblemonraiddens:mewtwo","required":false},
+    {"id": "#cobblemonraiddens:mew","required":false}
+  ]
+}

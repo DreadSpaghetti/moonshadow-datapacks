@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:victini","required":false},
+    {"id": "#cobblemonraiddens:cobalion","required":false},
+    {"id": "#cobblemonraiddens:terrakion","required":false},
+    {"id": "#cobblemonraiddens:virizion","required":false},
+    {"id": "#cobblemonraiddens:tornadus","required":false},
+    {"id": "#cobblemonraiddens:thundurus","required":false},
+    {"id": "#cobblemonraiddens:reshiram","required":false},
+    {"id": "#cobblemonraiddens:zekrom","required":false},
+    {"id": "#cobblemonraiddens:landorus","required":false},
+    {"id": "#cobblemonraiddens:kyurem","required":false},
+    {"id": "#cobblemonraiddens:kyurem_black","required":false},
+    {"id": "#cobblemonraiddens:kyurem_white","required":false},
+    {"id": "#cobblemonraiddens:keldeo","required":false},
+    {"id": "#cobblemonraiddens:meloetta","required":false},
+    {"id": "#cobblemonraiddens:genesect","required":false}
+  ]
+}

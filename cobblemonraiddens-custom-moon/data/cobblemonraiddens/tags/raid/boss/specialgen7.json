@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:typenull","required": false},
+	{"id": "#cobblemonraiddens:silvally","required": false},
+	{"id": "#cobblemonraiddens:tapukoko","required": false},
+	{"id": "#cobblemonraiddens:tapulele","required": false},
+	{"id": "#cobblemonraiddens:tapubulu","required": false},
+	{"id": "#cobblemonraiddens:tapufini","required": false},
+	{"id": "#cobblemonraiddens:cosmog","required": false},
+	{"id": "#cobblemonraiddens:cosmoem","required": false},
+	{"id": "#cobblemonraiddens:solgaleo","required": false},
+	{"id": "#cobblemonraiddens:lunala","required": false},
+	{"id": "#cobblemonraiddens:nihilego","required": false},
+	{"id": "#cobblemonraiddens:buzzwole","required": false},
+	{"id": "#cobblemonraiddens:pheromosa","required": false},
+	{"id": "#cobblemonraiddens:xurkitree","required": false},
+	{"id": "#cobblemonraiddens:celesteela","required": false},
+	{"id": "#cobblemonraiddens:kartana","required": false},
+	{"id": "#cobblemonraiddens:guzzlord","required": false},
+	{"id": "#cobblemonraiddens:necrozma","required": false},
+	{"id": "#cobblemonraiddens:magearna","required": false},
+	{"id": "#cobblemonraiddens:marshadow","required": false},
+	{"id": "#cobblemonraiddens:poipole","required": false},
+	{"id": "#cobblemonraiddens:naganadel","required": false},
+	{"id": "#cobblemonraiddens:stakataka","required": false},
+	{"id": "#cobblemonraiddens:blacephalon","required": false},
+	{"id": "#cobblemonraiddens:zeraora","required": false},
+	{"id": "#cobblemonraiddens:meltan","required": false},
+	{"id": "#cobblemonraiddens:melmetal","required": false}
+  ]
+}

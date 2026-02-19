@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:zacian","required": false},
+	{"id": "#cobblemonraiddens:zamazenta","required": false},
+	{"id": "#cobblemonraiddens:eternatus","required": false},
+	{"id": "#cobblemonraiddens:kubfu","required": false},
+	{"id": "#cobblemonraiddens:urshifu_rapid","required": false},
+	{"id": "#cobblemonraiddens:urshifu_single","required": false},
+	{"id": "#cobblemonraiddens:zarude","required": false},
+	{"id": "#cobblemonraiddens:regieleki","required": false},
+	{"id": "#cobblemonraiddens:regidrago","required": false},
+	{"id": "#cobblemonraiddens:glastrier","required": false},
+	{"id": "#cobblemonraiddens:spectrier","required": false},
+	{"id": "#cobblemonraiddens:calyrex","required": false},
+	{"id": "#cobblemonraiddens:calyrex_icerider","required": false},
+	{"id": "#cobblemonraiddens:calyrex_shadowrider","required": false},
+	{"id": "#cobblemonraiddens:enamorus","required": false}
+  ]
+}

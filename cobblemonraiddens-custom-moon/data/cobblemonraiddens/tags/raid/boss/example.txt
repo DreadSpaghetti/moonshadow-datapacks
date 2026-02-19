@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#cobblemonraiddens:tag","required": false},
+		{"id": "cobblemonraiddens:specificraidboss","required": false}
+	]
+}	

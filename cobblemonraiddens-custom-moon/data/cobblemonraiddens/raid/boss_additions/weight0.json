@@ -1,0 +1,11 @@
+{
+	"priority": 100,
+	"include": [
+		"#cobblemonraiddens:limited"
+	],
+	"exclude": [],
+	"additions": {
+		"weight": 0
+	},
+	"replace": true
+}

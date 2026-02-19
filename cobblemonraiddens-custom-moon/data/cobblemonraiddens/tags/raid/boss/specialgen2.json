@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:raikou","required":false},
+    {"id": "#cobblemonraiddens:entei","required":false},
+    {"id": "#cobblemonraiddens:suicune","required":false},
+    {"id": "#cobblemonraiddens:lugia","required":false},
+    {"id": "#cobblemonraiddens:hooh","required":false},
+    {"id": "#cobblemonraiddens:celebi","required":false}
+  ]
+}

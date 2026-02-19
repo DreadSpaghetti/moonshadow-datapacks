@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "#cobblemonraiddens:uxie","required":false},
+    {"id": "#cobblemonraiddens:mesprit","required":false},
+    {"id": "#cobblemonraiddens:azelf","required":false},
+    {"id": "#cobblemonraiddens:dialga","required":false},
+    {"id": "#cobblemonraiddens:dialga_origin","required":false},
+    {"id": "#cobblemonraiddens:palkia","required":false},
+    {"id": "#cobblemonraiddens:palkia_origin","required":false},
+    {"id": "#cobblemonraiddens:heatran","required":false},
+    {"id": "#cobblemonraiddens:regigigas","required":false},
+    {"id": "#cobblemonraiddens:giratina","required":false},
+    {"id": "#cobblemonraiddens:giratina_origin","required":false},
+    {"id": "#cobblemonraiddens:cresselia","required":false},
+    {"id": "#cobblemonraiddens:phione","required":false},
+    {"id": "#cobblemonraiddens:manaphy","required":false},
+    {"id": "#cobblemonraiddens:darkrai","required":false},
+    {"id": "#cobblemonraiddens:shaymin","required":false},
+    {"id": "#cobblemonraiddens:shaymin_sky","required":false},
+    {"id": "#cobblemonraiddens:arceus","required":false}
+  ]
+}
