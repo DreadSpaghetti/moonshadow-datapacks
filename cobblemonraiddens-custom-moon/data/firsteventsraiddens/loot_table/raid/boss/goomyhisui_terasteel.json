@@ -1,0 +1,89 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "min":6.0,
+                                "max":10.0
+                            },
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "cobblemon:exp_candy_m"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 1.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "mega_showdown:blank_z"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 50.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "mega_showdown:steel_tera_shard"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 1.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "simple_tms:tm_blank"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 1.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "name": "simple_tms:tm_irontail"
+                }
+            ]
+        }
+    ]
+}

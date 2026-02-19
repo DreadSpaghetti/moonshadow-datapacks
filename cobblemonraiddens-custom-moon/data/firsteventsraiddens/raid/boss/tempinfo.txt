@@ -1,0 +1,38 @@
+Goomy-hisus TERA steel @ Damp Rock  
+Ability: Hydration  
+Level: 20  
+Tera Type: Steel  
+EVs: 236 HP / 36 Atk / 236 SpA  
+Quiet Nature  
+- Dragon Breath  
+- Acid Armor  
+- Iron Tail  
+- Water Pulse
+
+Extra moves:
+Rain dance
+Thunder
+
+Turn 1: Rain dance and acid armor
+Turn 2: Water Pulse
+Turn 3: Dragon Breath
+Turn 4: Iron Tail
+Turn 5: Acid Armor
+Turn 6: Thunder
+Turn 7: Water Pulse
+Turn 8: Dragon Breath
+Turn 9: Rain dance and acid armor
+Turn 10: Thunder and Water Pulse
+
+On catch moves
+Dragon breath
+Water gun
+Mudshot
+Acid Armor
+
+Drops:
+6-10 Exp. candy M
+1 Blank-Z
+50 Steel Terrashards
+1 blank TM 
+1 Iron Tail TM
