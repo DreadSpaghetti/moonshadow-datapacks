@@ -17,8 +17,8 @@
         },
         "custom_properties": [
             {
-                "name": "hisuian",   
-                "value": "true"      
+                "name": "region_bias",   
+                "value": "hisui"      
             },
             {
                 "name": "tera_type",
