@@ -15,7 +15,6 @@
             "atk": 36,
             "spa": 236
         },
-        "held_item": "cobblemon:damp_rock",
         "custom_properties": [
             {
                 "name": "hisuian",   
@@ -28,6 +27,7 @@
         ]
     },
     "boss": {
+        "held_item": "cobblemon:damp_rock",
         "moves":[
             "dragonbreath",
             "acidarmor",
