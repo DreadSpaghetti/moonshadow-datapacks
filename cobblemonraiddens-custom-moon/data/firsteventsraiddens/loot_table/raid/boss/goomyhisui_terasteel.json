@@ -65,7 +65,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "simple_tms:tm_blank"
+                    "name": "simpletms:tm_blank"
                 }
             ]
         },
@@ -81,7 +81,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "simple_tms:tm_irontail"
+                    "name": "simpletms:tm_irontail"
                 }
             ]
         }
