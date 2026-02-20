@@ -6,8 +6,7 @@
 	],
 	"exclude": [],
 	"additions": {
-		"weight": 0,
-		"raid_tier": "TIER_ONE"
+		"weight": 0
 	},
 	"replace": true
 }
