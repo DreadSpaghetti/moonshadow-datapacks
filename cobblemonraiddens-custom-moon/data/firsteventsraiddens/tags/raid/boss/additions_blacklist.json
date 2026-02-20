@@ -1,5 +1,6 @@
 {
+    "replace": false,
     "values": [
-        "firsteventsraiddens:goomyhisui_terasteel.json"
+        {"id": "firsteventsraiddens:goomyhisui_terasteel.json", "required": false}
     ]
 }
