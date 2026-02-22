@@ -1,0 +1,43 @@
+{
+    "pokemon": {                             
+        "species": "eevee",
+        "ability": "adaptability",
+        "nature": "quiet",
+        "level": 20,
+        "moves": [
+            "tackle",
+            "quickattack",
+            "swift",
+            "disarmingvoice"
+        ],
+        "evs": {
+            "hp": 236,
+            "def": 36,
+            "spa": 236
+        },
+        "custom_properties": [
+            {
+                "name": "tera_type",
+                "value": "normal"
+            }
+        ]
+    },
+    "boss": {
+        "moves": [
+            "lastresort",
+            "hypervoice",
+            "storedpower",
+            "yawn"
+        ]
+    },
+    "raid_tier": "TIER_TWO",                
+    "raid_type": "NORMAL",                   
+    "raid_feature": "DEFAULT",                 
+    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/eeveextremevoboost"}, 
+    "weight": 20.0,
+    "script": {
+        "turn:1": "USE_MOVE_EXTREMEEVOBOOST_2",
+        "turn:3": "USE_MOVE_BABYDOLLEYES_1",
+        "turn:7": "USE_MOVE_BABYDOLLEYES_1"
+    }
+}

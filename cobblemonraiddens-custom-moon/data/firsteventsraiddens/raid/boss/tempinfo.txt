@@ -1,24 +1,36 @@
-Gimmighoul - TERA Steel
-Ability: Rattled  
+Eevee @ Eevium Z  
+Ability: Adaptability  
 Level: 20  
-Tera Type: Steel  
-EVs: 236 HP / 236 Atk / 36 SpD  
-Adamant Nature  
-- Confuse Ray  
-- Thief  
-- Astonish  
-- Tackle
+Tera Type: Normal  
+EVs: 236 HP / 36 Def / 236 SpA  
+Quiet Nature  
+- Last Resort  
+- Hyper Voice  
+- Stored Power  
+- Yawn
 
-Random attacks
+Extra moves:
+Baby-doll eyes
+
+Turn 1: Extreme Evoboost 
+Turn 2: hyper voice
+Turn 3: Baby-doll eyes
+Turn 4: yawn
+Turn 5: Stored Power
+Turn 6: hyper voice
+Turn 7: Baby-doll eyes
+Turn 8: yawn
+Turn 9: Stored Power
+
 On catch moves
-Same as raid
+Tackle
+Quick attack
+Swift
+Disarming voice
 
-Drops: 
-50-100 Relic Coins
-6-18 Exp. candy S
-1 Wishing Star
-3 Max Mushrooms
-1 Mega Stone
+Drops:
+6-10 Exp. candy M
 1 Blank-Z
-50 Steel Tera Shard
-1 blank TM
+3 Max Mushrooms
+1 blank TM 
+1 Hyper voice TM
