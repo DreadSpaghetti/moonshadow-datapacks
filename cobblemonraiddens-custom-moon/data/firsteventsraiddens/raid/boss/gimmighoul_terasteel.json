@@ -1,0 +1,30 @@
+{
+    "pokemon": {                             
+        "species": "gimmighoul",
+        "ability": "rattled",
+        "nature": "adamant",
+        "level": 20,
+        "moves": [
+            "confuseray",
+            "thief",
+            "astonish",
+            "tackle"
+        ],
+        "evs": {
+            "hp": 236,
+            "atk": 236,
+            "spd": 36
+        },
+        "custom_properties": [
+            {
+                "name": "tera_type",
+                "value": "steel"
+            }
+        ]
+    },
+    "raid_tier": "TIER_TWO",                
+    "raid_type": "STEEL",                   
+    "raid_feature": "TERA",                 
+    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/gimmighoul_terasteel"}, 
+    "weight": 20.0
+}

@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-		{"id": "firsteventsraiddens:goomyhisui_terasteel","required":false}
+		{"id": "firsteventsraiddens:goomyhisui_terasteel","required":false},
+    {"id": "firsteventsraiddens:gimmighoul_terasteel","required":false}
 	]
 }
