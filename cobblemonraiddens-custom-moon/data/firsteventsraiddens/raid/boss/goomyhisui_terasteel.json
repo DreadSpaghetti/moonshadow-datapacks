@@ -27,7 +27,6 @@
         ]
     },
     "boss": {
-        "held_item": "cobblemon:damp_rock",
         "moves":[
             "dragonbreath",
             "acidarmor",
@@ -41,15 +40,8 @@
     "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/goomyhisui_terasteel"}, 
     "weight": 20.0,
     "script": {                              
-        "turn:1": ["USE_MOVE_raindance_1","USE_MOVE_acidarmor_2"],
-        "turn:2": "USE_MOVE_waterpulse_1",
-        "turn:3": "USE_MOVE_dragonbreath_1",
-        "turn:4": "USE_MOVE_irontail_1",
-        "turn:5": "USE_MOVE_acidarmor_2",
-        "turn:6": "USE_MOVE_thunder_1",
-        "turn:7": "USE_MOVE_waterpulse_1",
-        "turn:8": "USE_MOVE_dragonbreath_1",
-        "turn:9": ["USE_MOVE_raindance_1","USE_MOVE_acidarmor_2"],
-        "turn:10": ["USE_MOVE_thunder_1","USE_MOVE_waterpulse_1"]
+        "turn:1": "SET_RAIN",
+        "turn:6": "SET_RAIN",
+        "turn:11": "SET_RAIN"
     }
 }
