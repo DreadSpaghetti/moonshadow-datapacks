@@ -1,15 +1,7 @@
 {
     "pokemon": {                             
         "species": "goomy",
-        "ability": "hydration",
-        "nature": "quiet",
         "level": 20,
-        "moves": [
-            "dragonbreath",
-            "watergun",
-            "mudshot",
-            "acidarmor"
-        ],
         "custom_properties": [
             {
                 "name": "region_bias",   
@@ -22,6 +14,8 @@
         ]
     },
     "boss": {
+        "ability": "hydration",
+        "nature": "quiet",
         "moves":[
             "dragonbreath",
             "acidarmor",

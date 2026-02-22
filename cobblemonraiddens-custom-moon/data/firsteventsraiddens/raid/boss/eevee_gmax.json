@@ -1,15 +1,7 @@
 {
     "pokemon": {                             
         "species": "eevee",
-        "ability": "adaptability",
-        "nature": "quiet",
-        "level": 20,
-        "moves": [
-            "tackle",
-            "quickattack",
-            "swift",
-            "disarmingvoice"
-        ]
+        "level": 20
     },
     "boss": {
         "moves": [
@@ -18,6 +10,8 @@
             "bodyslam",
             "yawn"
         ],
+        "ability": "adaptability",
+        "nature": "quiet",
         "evs": {
             "hp": 236,
             "def": 36,

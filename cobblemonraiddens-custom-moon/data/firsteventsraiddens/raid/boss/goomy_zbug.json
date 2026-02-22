@@ -1,15 +1,7 @@
 {
     "pokemon": {                             
         "species": "goomy",
-        "ability": "gooey",
-        "nature": "brave",
         "level": 20,
-        "moves": [
-            "dragonbreath",
-            "watergun",
-            "mudshot",
-            "poisontail"
-        ],
         "custom_properties": [
             {
                 "name": "tera_type",
@@ -18,6 +10,9 @@
         ]
     },
     "boss": {
+        
+        "ability": "gooey",
+        "nature": "brave",
         "moves":[
             "dragonbreath",
             "poisontail",

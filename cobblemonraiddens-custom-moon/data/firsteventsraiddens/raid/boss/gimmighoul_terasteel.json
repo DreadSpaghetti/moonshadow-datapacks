@@ -1,15 +1,7 @@
 {
     "pokemon": {                             
         "species": "gimmighoul",
-        "ability": "rattled",
-        "nature": "adamant",
         "level": 20,
-        "moves": [
-            "confuseray",
-            "thief",
-            "astonish",
-            "tackle"
-        ],
         "custom_properties": [
             {
                 "name": "tera_type",
@@ -22,7 +14,9 @@
             "hp": 236,
             "atk": 236,
             "spd": 36
-        }
+        },
+        "ability": "rattled",
+        "nature": "adamant"
     },
     "raid_tier": "TIER_TWO",                
     "raid_type": "STEEL",                   

@@ -1,15 +1,7 @@
 {
     "pokemon": {                             
         "species": "eevee",
-        "ability": "adaptability",
-        "nature": "quiet",
         "level": 20,
-        "moves": [
-            "tackle",
-            "quickattack",
-            "swift",
-            "disarmingvoice"
-        ],
         "custom_properties": [
             {
                 "name": "tera_type",
@@ -18,6 +10,8 @@
         ]
     },
     "boss": {
+        "ability": "adaptability",
+        "nature": "quiet",
         "moves": [
             "lastresort",
             "hypervoice",
