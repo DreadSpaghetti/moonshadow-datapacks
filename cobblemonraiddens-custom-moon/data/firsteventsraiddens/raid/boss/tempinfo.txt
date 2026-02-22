@@ -1,38 +1,19 @@
-Goomy @ Buginium Z  
-Ability: Gooey  
+Banette-Mega @ Banettite  
+Ability: Prankster  
 Level: 20  
-Tera Type: Dragon  
-EVs: 236 HP / 236 Atk / 36 SpA  
-Brave Nature  
-- Poison Tail  
-- Dragon Breath  
-- Skitter Smack  
-- Body Slam
+Tera Type: Ghost  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Hex  
+- Will-O-Wisp  
+- Calm Mind  
+- Burning Jealousy
 
-Bonus moves
-Curse
-Sticky Web
-
-Turn 1: Curse
-Turn 2: Skitter Smack
-Turn 3: Dragon Breath
-Turn 4: Poison Tail
-Turn 5: Curse
-Turn 6: Savage Spin-Out and Sticky Web
-Turn 7: Body Slam
-Turn 8: Dragon Breath
-Turn 9: Skitter Smack
-Turn 10: Savage Spin-Out and Sticky Web
-
-On catch moves
-Dragon breath
-Water gun
-Mudshot
-Poison Tail
+Catch Shuppet
 
 Drops:
 6-10 Exp. candy M
-1 Blank-Z
-50 Steel Terrashards
+1 blank megastone
+50 ghost Terrashards
 1 blank TM 
-1 Skitter Smack TM
+1 Will-O-Wisp TM

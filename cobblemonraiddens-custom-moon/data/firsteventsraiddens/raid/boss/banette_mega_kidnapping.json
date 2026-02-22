@@ -1,0 +1,34 @@
+{
+    "pokemon": {                             
+        "species": "shuppet",
+        "level": 20
+    },
+    "boss": {
+        "species": "banette",
+        "ability": "prankster",
+        "nature": "modest",
+        "level": 20,
+        "moves": [
+            "hex",
+            "willowisp",
+            "calmmind",
+            "burningjealousy"
+        ],
+        "custom_properties": [
+            {
+                "name": "tera_type",
+                "value": "ghost"
+            }
+        ],
+        "evs": {
+            "hp": 252,
+            "spd": 4,
+            "spa": 252
+        }
+    },
+    "raid_tier": "TIER_TWO",                
+    "raid_type": "GHOST",                   
+    "raid_feature": "MEGA",                 
+    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/banette_mega_kidnapping"}, 
+    "weight": 20.0
+}
