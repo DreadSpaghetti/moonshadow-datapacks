@@ -1,0 +1,42 @@
+{
+    "pokemon": {                             
+        "species": "goomy",
+        "ability": "gooey",
+        "nature": "brave",
+        "level": 20,
+        "moves": [
+            "dragonbreath",
+            "watergun",
+            "mudshot",
+            "poisontail"
+        ],
+        "custom_properties": [
+            {
+                "name": "tera_type",
+                "value": "dragon"
+            }
+        ]
+    },
+    "boss": {
+        "moves":[
+            "dragonbreath",
+            "poisontail",
+            "skittersmack",
+            "bodyslam"
+        ],
+        "evs": {
+            "hp": 236,
+            "atk": 236,
+            "spa": 36
+        }
+    },
+    "raid_tier": "TIER_TWO",                
+    "raid_type": "STEEL",                   
+    "raid_feature": "DEFAULT",                 
+    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/goomy_zbug"}, 
+    "weight": 20.0,
+    "script": {                              
+        "turn:6": "USE_MOVE_SAVAGESPINOUT_1",
+        "turn:10": "USE_MOVE_SAVAGESPINOUT_1"
+    }
+}
