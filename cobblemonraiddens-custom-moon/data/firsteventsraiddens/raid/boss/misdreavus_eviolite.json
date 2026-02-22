@@ -1,0 +1,27 @@
+{
+    "pokemon": {
+        "species": "misdreavus",
+        "level": 20
+    },
+    "boss": {
+        "ability": "levitate",
+        "nature": "calm",
+        "evs": {
+            "hp": 36,
+            "spd": 236,
+            "spa": 236
+        },
+        "moves": [
+            "energyball",
+            "hex",
+            "dazzlinggleam",
+            "thunderbolt"
+        ],
+        "held_item": "cobblemon:eviolite"
+    },
+    "raid_tier": "TIER_TWO",
+    "raid_type": "GHOST",
+    "raid_feature": "TERA",
+    "loot_table": {"replace": true, "id":"firsteventsraiddens:raid/boss/misdreavus_eviolite"},
+    "weight": 20.0
+}

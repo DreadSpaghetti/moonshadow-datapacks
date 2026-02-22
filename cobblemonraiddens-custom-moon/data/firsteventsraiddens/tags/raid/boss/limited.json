@@ -6,6 +6,7 @@
       {"id": "firsteventsraiddens:eevee_extremeevoboost","required":false},
       {"id": "firsteventsraiddens:eevee_gmax","required":false},
       {"id": "firsteventsraiddens:goomy_zbug","required":false},
-      {"id": "firsteventsraiddens:banette_mega_kidnapping","required":false}
+      {"id": "firsteventsraiddens:banette_mega_kidnapping","required":false},
+      {"id": "firsteventsraiddens:misdreavus_eviolite","required":false}
 	]
 }

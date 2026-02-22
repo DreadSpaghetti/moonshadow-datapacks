@@ -1,19 +1,17 @@
-Banette-Mega @ Banettite  
-Ability: Prankster  
+Misdreavus @ Eviolite  TERA ghost
+Ability: Levitate  
 Level: 20  
 Tera Type: Ghost  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
+EVs: 36 HP / 236 SpA / 236 SpD  
+Calm Nature  
+- Energy Ball  
 - Hex  
-- Will-O-Wisp  
-- Calm Mind  
-- Burning Jealousy
-
-Catch Shuppet
+- Dazzling Gleam  
+- Thunderbolt
 
 Drops:
 6-10 Exp. candy M
 1 blank megastone
 50 ghost Terrashards
 1 blank TM 
-1 Will-O-Wisp TM
+1 Hex TM
