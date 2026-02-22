@@ -1,26 +1,27 @@
-Eevee @ Eevium Z  
+Eevee-Gmax  
 Ability: Adaptability  
 Level: 20  
+EVs: 236 HP / 236 Atk / 36 Def  
 Tera Type: Normal  
-EVs: 236 HP / 36 Def / 236 SpA  
-Quiet Nature  
+- Body Slam  
+- Iron Tail  
 - Last Resort  
-- Hyper Voice  
-- Stored Power  
 - Yawn
 
 Extra moves:
 Baby-doll eyes
+Covet 
 
-Turn 1: Extreme Evoboost 
-Turn 2: hyper voice
-Turn 3: Baby-doll eyes
-Turn 4: yawn
-Turn 5: Stored Power
-Turn 6: hyper voice
-Turn 7: Baby-doll eyes
-Turn 8: yawn
-Turn 9: Stored Power
+Turn 1: yawn 
+Turn 2: Baby-doll eyes
+Turn 3: Body Slam
+Turn 4: G-Max Cuddle
+Turn 5: Baby-doll eyes
+Turn 6: Covet
+Turn 7: yawn
+Turn 8: Iron Tail
+Turn 9: G-Max Cuddle
+Turn 10: Body Slam
 
 On catch moves
 Tackle
@@ -33,4 +34,4 @@ Drops:
 1 Blank-Z
 3 Max Mushrooms
 1 blank TM 
-1 Hyper voice TM
+1 Body Slam TM

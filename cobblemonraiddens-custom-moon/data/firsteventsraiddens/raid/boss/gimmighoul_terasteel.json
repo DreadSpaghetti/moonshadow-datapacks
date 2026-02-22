@@ -10,17 +10,19 @@
             "astonish",
             "tackle"
         ],
-        "evs": {
-            "hp": 236,
-            "atk": 236,
-            "spd": 36
-        },
         "custom_properties": [
             {
                 "name": "tera_type",
                 "value": "steel"
             }
         ]
+    },
+    "boss": {
+        "evs": {
+            "hp": 236,
+            "atk": 236,
+            "spd": 36
+        }
     },
     "raid_tier": "TIER_TWO",                
     "raid_type": "STEEL",                   

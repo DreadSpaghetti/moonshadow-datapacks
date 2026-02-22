@@ -10,11 +10,6 @@
             "mudshot",
             "acidarmor"
         ],
-        "evs": {
-            "hp": 236,
-            "atk": 36,
-            "spa": 236
-        },
         "custom_properties": [
             {
                 "name": "region_bias",   
@@ -32,7 +27,12 @@
             "acidarmor",
             "irontail",
             "waterpulse"
-        ]
+        ],
+        "evs": {
+            "hp": 236,
+            "atk": 36,
+            "spa": 236
+        }
     },
     "raid_tier": "TIER_TWO",                
     "raid_type": "STEEL",                   
