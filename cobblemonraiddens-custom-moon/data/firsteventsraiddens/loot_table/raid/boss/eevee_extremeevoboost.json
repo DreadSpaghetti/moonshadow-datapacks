@@ -17,8 +17,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "cobblemon:exp_candy_m",
-                    "weight": 20.0
+                    "name": "cobblemon:exp_candy_m"
                 }
             ]
         },

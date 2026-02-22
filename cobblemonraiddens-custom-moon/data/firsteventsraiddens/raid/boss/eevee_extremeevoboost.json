@@ -33,7 +33,7 @@
     "raid_tier": "TIER_TWO",                
     "raid_type": "NORMAL",                   
     "raid_feature": "DEFAULT",                 
-    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/eeveextremevoboost"}, 
+    "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/eevee_extremeevoboost"}, 
     "weight": 20.0,
     "script": {
         "turn:1": "USE_MOVE_EXTREMEEVOBOOST_2",
