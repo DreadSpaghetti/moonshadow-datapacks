@@ -1,0 +1,27 @@
+{
+    "pokemon": {
+        "species": "poochyena",
+        "level": 20
+    },
+    "boss": {
+        "ability": "quickfeet",
+        "nature": "adamant",
+        "evs": {
+            "hp": 236,
+            "atk": 236,
+            "spd": 36
+        },
+        "moves": [
+            "crunch",
+            "icefang",
+            "facade",
+            "psychicfangs"
+        ],
+        "held_item": "cobblemon:toxic_orb"
+    },
+    "raid_tier": "TIER_TWO",
+    "raid_type": "DARK",
+    "raid_feature": "DYNAMAX",
+    "loot_table": {"replace": true, "id":"firsteventsraiddens:raid/boss/poochyena_toxicorb"},
+    "weight": 20.0
+}

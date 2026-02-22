@@ -8,6 +8,7 @@
         {"id": "firsteventsraiddens:goomy_zbug", "required": false},
       {"id": "firsteventsraiddens:banette_mega_kidnapping","required":false},
       {"id": "firsteventsraiddens:misdreavus_eviolite","required":false},
-      {"id": "firsteventsraiddens:duskull_eviolite","required":false}
+      {"id": "firsteventsraiddens:duskull_eviolite","required":false},
+      {"id": "firsteventsraiddens:poochyena_toxicorb","required":false}
     ]
 }
