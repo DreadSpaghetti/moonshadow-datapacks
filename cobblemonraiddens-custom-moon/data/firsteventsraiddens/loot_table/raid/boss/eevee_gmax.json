@@ -65,6 +65,22 @@
                             "function": "minecraft:set_count"
                         }
                     ],
+                    "name": "mega_showdown:wishing_star"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": 1.0,
+                            "function": "minecraft:set_count"
+                        }
+                    ],
                     "name": "simpletms:tm_blank"
                 }
             ]
