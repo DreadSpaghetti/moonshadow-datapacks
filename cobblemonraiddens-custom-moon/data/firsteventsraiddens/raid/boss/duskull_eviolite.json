@@ -1,0 +1,28 @@
+{
+    "pokemon": {
+        "species": "duskull",
+        "level": 20
+    },
+    "boss": {
+        "ability": "levitate",
+        "nature": "sassy",
+        "evs": {
+            "hp": 236,
+            "spd": 36,
+            "spa": 96,
+            "def": 136
+        },
+        "moves": [
+            "curse",
+            "calmmind",
+            "shadowsneak",
+            "shadowball"
+        ],
+        "held_item": "cobblemon:eviolite"
+    },
+    "raid_tier": "TIER_TWO",
+    "raid_type": "GHOST",
+    "raid_feature": "TERA",
+    "loot_table": {"replace": true, "id":"firsteventsraiddens:raid/boss/duskull_eviolite"},
+    "weight": 20.0
+}
