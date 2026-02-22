@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-		{"id": "firsteventsraiddens:goomyhisui_terasteel","required":false},
-    {"id": "firsteventsraiddens:gimmighoul_terasteel","required":false},
-    {"id": "firsteventsraiddens:eevee_extremeevoboost","required":false},
-    {"id": "firsteventsraiddens:eevee_gmax","required":false},
-    {"id": "firsteventsraiddens:goomy_zbug","required":false}
+		  {"id": "firsteventsraiddens:goomyhisui_terasteel","required":false},
+      {"id": "firsteventsraiddens:gimmighoul_terasteel","required":false},
+      {"id": "firsteventsraiddens:eevee_extremeevoboost","required":false},
+      {"id": "firsteventsraiddens:eevee_gmax","required":false},
+      {"id": "firsteventsraiddens:goomy_zbug","required":false}
 	]
 }
