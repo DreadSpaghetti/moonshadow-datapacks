@@ -1,0 +1,11 @@
+{
+	"priority": 100,
+	"include": [],
+	"exclude": [],
+	"additions": {
+		"den": [
+            "cobblemonraiddens:raid_den/dynamax"
+        ]
+	},
+	"replace": true
+}
