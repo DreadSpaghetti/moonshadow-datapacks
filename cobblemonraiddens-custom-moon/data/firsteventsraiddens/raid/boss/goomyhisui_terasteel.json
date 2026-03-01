@@ -1,7 +1,7 @@
 {
     "pokemon": {                             
         "species": "goomy",
-        "level": 20,
+        "level": 35,
         "custom_properties": [
             {
                 "name": "region_bias",   
@@ -28,7 +28,7 @@
             "spa": 236
         }
     },
-    "raid_tier": "TIER_TWO",                
+    "raid_tier": "TIER_THREE",                
     "raid_type": "STEEL",                   
     "raid_feature": "TERA",                 
     "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/goomyhisui_terasteel"}, 

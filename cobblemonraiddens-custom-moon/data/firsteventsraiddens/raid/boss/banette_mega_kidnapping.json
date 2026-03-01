@@ -1,13 +1,13 @@
 {
     "pokemon": {                             
         "species": "shuppet",
-        "level": 20
+        "level": 35
     },
     "boss": {
         "species": "banette",
         "ability": "prankster",
         "nature": "modest",
-        "level": 20,
+        "level": 35,
         "moves": [
             "hex",
             "willowisp",
@@ -26,7 +26,7 @@
             "spa": 252
         }
     },
-    "raid_tier": "TIER_TWO",                
+    "raid_tier": "TIER_THREE",                
     "raid_type": "GHOST",                   
     "raid_feature": "MEGA",                 
     "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/banette_mega_kidnapping"}, 

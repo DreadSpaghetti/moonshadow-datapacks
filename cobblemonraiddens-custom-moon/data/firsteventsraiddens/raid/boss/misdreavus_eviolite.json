@@ -1,7 +1,7 @@
 {
     "pokemon": {
         "species": "misdreavus",
-        "level": 20
+        "level": 35
     },
     "boss": {
         "ability": "levitate",
@@ -19,7 +19,7 @@
         ],
         "held_item": "cobblemon:eviolite"
     },
-    "raid_tier": "TIER_TWO",
+    "raid_tier": "TIER_THREE",
     "raid_type": "GHOST",
     "raid_feature": "TERA",
     "loot_table": {"replace": true, "id":"firsteventsraiddens:raid/boss/misdreavus_eviolite"},

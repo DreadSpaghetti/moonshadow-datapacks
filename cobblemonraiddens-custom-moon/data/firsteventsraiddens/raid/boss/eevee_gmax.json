@@ -1,9 +1,10 @@
 {
     "pokemon": {                             
         "species": "eevee",
-        "level": 20
+        "level": 35
     },
     "boss": {
+		"level": 35
         "moves": [
             "lastresort",
             "irontail",
@@ -24,7 +25,7 @@
             }
         ]
     },
-    "raid_tier": "TIER_TWO",                
+    "raid_tier": "TIER_THREE",                
     "raid_type": "NORMAL",                   
     "raid_feature": "DYNAMAX",                 
     "loot_table": {"replace": true, "id": "firsteventsraiddens:raid/boss/eevee_gmax"}, 
