@@ -20,7 +20,7 @@
         "maxSkyLight": 15,
         "canSeeSky": true,
         "biomes": [
-          "cobblemon:is_floral"
+          "#cobblemon:is_floral"
         ]
       }
     },
