@@ -4,7 +4,7 @@
         "level": 35
     },
     "boss": {
-		"level": 35
+		"level": 35,
         "moves": [
             "lastresort",
             "irontail",
