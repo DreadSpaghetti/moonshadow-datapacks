@@ -10,7 +10,7 @@
         ]
     },
     "boss": {
-        "level": 35
+        "level": 35,
         "ability": "gooey",
         "nature": "brave",
         "moves":[
