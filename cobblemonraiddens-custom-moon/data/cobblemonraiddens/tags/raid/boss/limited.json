@@ -138,6 +138,7 @@
 		{"id": "#cobblemonraiddens:ironcrown","required": false},
 		{"id": "#cobblemonraiddens:terapagos","required": false},
 		{"id": "#cobblemonraiddens:pecharunt","required": false},
+		{"id": "#cobblemonraiddens:ursaluna_bloodmoon","required": false},
 		{"id": "#cobblemonraiddens:evereon","required": false}
 	]
 }
