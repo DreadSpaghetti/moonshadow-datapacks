@@ -5,10 +5,9 @@
   "spawns": [
     {
       "id": "zygarde-1T",
-      "pokemon": "zygarde percent_cells=core min_perfect_ivs=3",
+      "pokemon": "zygarde percent_cells=core shiny=no",
       "presets": [
-          "natural",
-          "wild"
+          "natural"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

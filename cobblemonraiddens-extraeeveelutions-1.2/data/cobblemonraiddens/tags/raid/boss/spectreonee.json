@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cobblemonraiddens:spectreonee", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_stellar", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terabug", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teradark", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teradragon", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teraelectric", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terafairy", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terafighting", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terafire", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teraflying", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teraghost", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teragrass", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teraground", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teraice", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_teranormal", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terapoison", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terapsychic", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terarock", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terasteel", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_terawater", "required": false},
+        {"id": "cobblemonraiddens:spectreonee_dmax", "required": false}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "wyveon",
+        "moves": [
+            "substitute",
+            "snarl",
+            "dragondance",
+            "dragonhammer"
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "DRAGON",
+    "weight": 20.0
+}

@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "minereon",
+        "moves": [
+            "protect",
+            "superpower",
+            "stoneedge",
+            "facade"
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "ROCK",
+    "weight": 20.0
+}

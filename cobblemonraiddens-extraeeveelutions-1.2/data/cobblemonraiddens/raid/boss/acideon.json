@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "acideon",
+        "moves": [
+            "acidarmor",
+            "poisontail",
+            "yawn",
+            "crosspoison"
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "POISON",
+    "weight": 20.0
+}

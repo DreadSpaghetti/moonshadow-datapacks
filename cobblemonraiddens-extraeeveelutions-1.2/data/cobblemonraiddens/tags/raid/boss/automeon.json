@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cobblemonraiddens:automeon", "required": false},
+        {"id": "cobblemonraiddens:automeon_stellar", "required": false},
+        {"id": "cobblemonraiddens:automeon_terabug", "required": false},
+        {"id": "cobblemonraiddens:automeon_teradark", "required": false},
+        {"id": "cobblemonraiddens:automeon_teradragon", "required": false},
+        {"id": "cobblemonraiddens:automeon_teraelectric", "required": false},
+        {"id": "cobblemonraiddens:automeon_terafairy", "required": false},
+        {"id": "cobblemonraiddens:automeon_terafighting", "required": false},
+        {"id": "cobblemonraiddens:automeon_terafire", "required": false},
+        {"id": "cobblemonraiddens:automeon_teraflying", "required": false},
+        {"id": "cobblemonraiddens:automeon_teraghost", "required": false},
+        {"id": "cobblemonraiddens:automeon_teragrass", "required": false},
+        {"id": "cobblemonraiddens:automeon_teraground", "required": false},
+        {"id": "cobblemonraiddens:automeon_teraice", "required": false},
+        {"id": "cobblemonraiddens:automeon_teranormal", "required": false},
+        {"id": "cobblemonraiddens:automeon_terapoison", "required": false},
+        {"id": "cobblemonraiddens:automeon_terapsychic", "required": false},
+        {"id": "cobblemonraiddens:automeon_terarock", "required": false},
+        {"id": "cobblemonraiddens:automeon_terasteel", "required": false},
+        {"id": "cobblemonraiddens:automeon_terawater", "required": false},
+        {"id": "cobblemonraiddens:automeon_dmax", "required": false}
+    ]
+}

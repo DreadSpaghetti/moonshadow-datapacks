@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cobblemonraiddens:aereonee", "required": false},
+        {"id": "cobblemonraiddens:aereonee_stellar", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terabug", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teradark", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teradragon", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teraelectric", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terafairy", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terafighting", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terafire", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teraflying", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teraghost", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teragrass", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teraground", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teraice", "required": false},
+        {"id": "cobblemonraiddens:aereonee_teranormal", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terapoison", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terapsychic", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terarock", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terasteel", "required": false},
+        {"id": "cobblemonraiddens:aereonee_terawater", "required": false},
+        {"id": "cobblemonraiddens:aereonee_dmax", "required": false}
+    ]
+}

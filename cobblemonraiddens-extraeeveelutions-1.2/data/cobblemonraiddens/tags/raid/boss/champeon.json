@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cobblemonraiddens:champeon", "required": false},
+        {"id": "cobblemonraiddens:champeon_stellar", "required": false},
+        {"id": "cobblemonraiddens:champeon_terabug", "required": false},
+        {"id": "cobblemonraiddens:champeon_teradark", "required": false},
+        {"id": "cobblemonraiddens:champeon_teradragon", "required": false},
+        {"id": "cobblemonraiddens:champeon_teraelectric", "required": false},
+        {"id": "cobblemonraiddens:champeon_terafairy", "required": false},
+        {"id": "cobblemonraiddens:champeon_terafighting", "required": false},
+        {"id": "cobblemonraiddens:champeon_terafire", "required": false},
+        {"id": "cobblemonraiddens:champeon_teraflying", "required": false},
+        {"id": "cobblemonraiddens:champeon_teraghost", "required": false},
+        {"id": "cobblemonraiddens:champeon_teragrass", "required": false},
+        {"id": "cobblemonraiddens:champeon_teraground", "required": false},
+        {"id": "cobblemonraiddens:champeon_teraice", "required": false},
+        {"id": "cobblemonraiddens:champeon_teranormal", "required": false},
+        {"id": "cobblemonraiddens:champeon_terapoison", "required": false},
+        {"id": "cobblemonraiddens:champeon_terapsychic", "required": false},
+        {"id": "cobblemonraiddens:champeon_terarock", "required": false},
+        {"id": "cobblemonraiddens:champeon_terasteel", "required": false},
+        {"id": "cobblemonraiddens:champeon_terawater", "required": false},
+        {"id": "cobblemonraiddens:champeon_dmax", "required": false}
+    ]
+}

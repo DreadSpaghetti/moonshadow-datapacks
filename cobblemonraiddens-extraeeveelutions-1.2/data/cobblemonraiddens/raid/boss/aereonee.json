@@ -1,0 +1,14 @@
+{
+    "pokemon": {
+        "species": "aereonee",
+        "moves": [
+            "fly",
+            "freezeshock",
+            "heatwave",
+            "solarbeam"
+        ]
+    },
+    "raid_tier": "TIER_FIVE",
+    "raid_type": "FLYING",
+    "weight": 20.0
+}
